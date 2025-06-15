@@ -1,0 +1,14 @@
+---
+
+### 🐍 4. **Rename your script to `recon_ai.py`** and place the updated code there.
+
+---
+
+### 🧪 5. **Add `.gitignore`**
+
+```bash
+__pycache__/
+*.pyc
+reports/
+results/
+.env

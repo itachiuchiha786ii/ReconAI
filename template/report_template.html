@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recon Report - {{TARGET}}</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      color: #000000;
+      padding: 30px;
+      font-size: 16px;
+    }
+
+    h1 {
+      color: #d60000;
+    }
+
+    h2 {
+      color: #007ACC;
+    }
+
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      background: #f2f2f2;
+      border-left: 5px solid #007ACC;
+      padding: 15px;
+      font-size: 15px;
+    }
+
+    details summary {
+      cursor: pointer;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+
+    details[open] summary::before {
+      content: "[-] ";
+    }
+
+    details:not([open]) summary::before {
+      content: "[+] ";
+    }
+
+    #toggle-btn {
+      background-color: #007ACC;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      font-size: 14px;
+      cursor: pointer;
+      margin-bottom: 20px;
+      border-radius: 5px;
+    }
+
+    #toggle-btn:hover {
+      background-color: #005fa3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Reconnaissance Report</h1>
+  <p><strong>Target:</strong> {{TARGET}}</p>
+  <p><strong>Date:</strong> {{DATE}}</p>
+
+  <button id="toggle-btn">Expand All Sections</button>
+
+  <details open>
+    <summary>Executive Summary</summary>
+    {{summary}}
+  </details>
+
+  <details open>
+    <summary>Sensitive Findings</summary>
+    {{sensitive}}
+  </details>
+
+  <details open>
+    <summary>Suggested Next Steps</summary>
+    {{recommendations}}
+  </details>
+
+  <hr>
+
+  <details>
+    <summary>WHOIS</summary>
+    {{WHOIS}}
+  </details>
+
+  <details>
+    <summary>NSLOOKUP</summary>
+    {{NSLOOKUP}}
+  </details>
+
+  <details>
+    <summary>DIG</summary>
+    {{DIG}}
+  </details>
+
+  <details>
+    <summary>TRACEROUTE</summary>
+    {{TRACEROUTE}}
+  </details>
+
+  <details>
+    <summary>DNSRECON</summary>
+    {{DNSRECON}}
+  </details>
+
+  <details>
+    <summary>NMAP</summary>
+    {{NMAP}}
+  </details>
+
+  <details>
+    <summary>SSLScan</summary>
+    {{SSLScan}}
+  </details>
+
+  <details>
+    <summary>NUCLEI</summary>
+    {{NUCLEI}}
+  </details>
+
+  <details>
+    <summary>WHATWEB</summary>
+    {{WHATWEB}}
+  </details>
+
+  <details>
+    <summary>WAFW00F</summary>
+    {{WAFW00F}}
+  </details>
+
+  <script>
+    const toggleBtn = document.getElementById("toggle-btn");
+    let expanded = false;
+
+    toggleBtn.addEventListener("click", () => {
+      const allDetails = document.querySelectorAll("details");
+      expanded = !expanded;
+      allDetails.forEach((d, idx) => {
+        if (idx > 2) d.open = expanded;  // Keep first 3 (SGPT) open
+      });
+      toggleBtn.textContent = expanded ? "Collapse All Sections" : "Expand All Sections";
+    });
+  </script>
+</body>
+</html>

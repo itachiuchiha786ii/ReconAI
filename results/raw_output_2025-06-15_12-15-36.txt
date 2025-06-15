@@ -1,0 +1,401 @@
+
+
+===== WHOIS =====
+   Domain Name: HPWOLF.COM
+   Registry Domain ID: 2563611538_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-09-01T11:13:35Z
+   Creation Date: 2020-10-03T14:59:09Z
+   Registry Expiry Date: 2025-10-03T14:59:09Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: GWEN.NS.CLOUDFLARE.COM
+   Name Server: HUGH.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-06-15T12:15:24Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: hpwolf.com
+Registry Domain ID: 2563611538_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-01-13T19:38:07+0000
+Creation Date: 2020-10-03T14:59:09+0000
+Registrar Registration Expiration Date: 2025-10-03T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: HP Inc.
+Registrant Street: 1501 Page Mill Road, 
+Registrant City: Palo Alto
+Registrant State/Province: CA
+Registrant Postal Code: 94304
+Registrant Country: US
+Registrant Phone: +1.8005247638
+Registrant Phone Ext: 
+Registrant Fax: +1.8005247638
+Registrant Fax Ext: 
+Registrant Email: hp.domains@hp.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: HP Inc.
+Admin Street: 1501 Page Mill Road, 
+Admin City: Palo Alto
+Admin State/Province: CA
+Admin Postal Code: 94304
+Admin Country: US
+Admin Phone: +1.8005247638
+Admin Phone Ext: 
+Admin Fax: +1.8005247638
+Admin Fax Ext: 
+Admin Email: hp.domains@hp.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: HP Inc.
+Tech Street: 1501 Page Mill Road, 
+Tech City: Palo Alto
+Tech State/Province: CA
+Tech Postal Code: 94304
+Tech Country: US
+Tech Phone: +1.8005247638
+Tech Phone Ext: 
+Tech Fax: +1.8005247638
+Tech Fax Ext: 
+Tech Email: hp.domains@hp.com
+Name Server: gwen.ns.cloudflare.com
+Name Server: hugh.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-06-15T12:15:41+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to whoisrequest@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+
+
+
+
+===== NSLOOKUP =====
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	hpwolf.com
+Address: 104.18.35.85
+Name:	hpwolf.com
+Address: 172.64.152.171
+Name:	hpwolf.com
+Address: 2606:4700:9c60:a21c:66a5:0:787e:118e
+
+
+
+
+===== DIG =====
+
+; <<>> DiG 9.20.9-1-Debian <<>> hpwolf.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30454
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;hpwolf.com.			IN	A
+
+;; ANSWER SECTION:
+hpwolf.com.		300	IN	A	104.18.35.85
+hpwolf.com.		300	IN	A	172.64.152.171
+
+;; Query time: 280 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Jun 15 12:15:43 UTC 2025
+;; MSG SIZE  rcvd: 71
+
+
+
+
+===== TRACEROUTE =====
+traceroute to hpwolf.com (172.64.152.171), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.71.249.99 (10.71.249.99)  39.106 ms 10.71.249.107 (10.71.249.107)  38.773 ms 10.71.249.99 (10.71.249.99)  38.434 ms
+ 3  192.168.76.75 (192.168.76.75)  37.883 ms  37.423 ms  36.736 ms
+ 4  192.168.39.28 (192.168.39.28)  35.977 ms 192.168.39.30 (192.168.39.30)  35.454 ms  34.627 ms
+ 5  172.26.77.212 (172.26.77.212)  32.885 ms  32.498 ms  31.757 ms
+ 6  172.26.77.194 (172.26.77.194)  31.168 ms  36.440 ms 172.26.77.195 (172.26.77.195)  34.371 ms
+ 7  192.168.65.72 (192.168.65.72)  45.825 ms 192.168.65.68 (192.168.65.68)  44.562 ms 192.168.65.74 (192.168.65.74)  44.096 ms
+ 8  * * *
+ 9  * * *
+10  162.158.226.122 (162.158.226.122)  60.452 ms  49.654 ms  40.436 ms
+11  162.158.226.67 (162.158.226.67)  39.481 ms 162.158.226.21 (162.158.226.21)  51.460 ms 162.158.226.71 (162.158.226.71)  46.134 ms
+12  172.64.152.171 (172.64.152.171)  49.714 ms  43.394 ms  34.271 ms
+
+
+
+===== DNSRECON =====
+[*] std: Performing General Enumeration against: hpwolf.com...
+[-] DNSSEC is not configured for hpwolf.com
+[*] 	 SOA gwen.ns.cloudflare.com 173.245.58.160
+[*] 	 SOA gwen.ns.cloudflare.com 172.64.32.160
+[*] 	 SOA gwen.ns.cloudflare.com 108.162.192.160
+[*] 	 SOA gwen.ns.cloudflare.com 2803:f800:50::6ca2:c0a0
+[*] 	 SOA gwen.ns.cloudflare.com 2a06:98c1:50::ac40:20a0
+[*] 	 SOA gwen.ns.cloudflare.com 2606:4700:50::adf5:3aa0
+[*] 	 NS hugh.ns.cloudflare.com 173.245.59.117
+[*] 	 Bind Version for 173.245.59.117 "2025.6.0"
+[*] 	 NS hugh.ns.cloudflare.com 108.162.193.117
+[*] 	 Bind Version for 108.162.193.117 "2025.6.0"
+[*] 	 NS hugh.ns.cloudflare.com 172.64.33.117
+[*] 	 Bind Version for 172.64.33.117 "2025.6.0"
+[*] 	 NS hugh.ns.cloudflare.com 2a06:98c1:50::ac40:2175
+[*] 	 NS hugh.ns.cloudflare.com 2606:4700:58::adf5:3b75
+[*] 	 NS hugh.ns.cloudflare.com 2803:f800:50::6ca2:c175
+[*] 	 NS gwen.ns.cloudflare.com 172.64.32.160
+[*] 	 Bind Version for 172.64.32.160 "2025.6.0"
+[*] 	 NS gwen.ns.cloudflare.com 173.245.58.160
+[*] 	 Bind Version for 173.245.58.160 "2025.6.0"
+[*] 	 NS gwen.ns.cloudflare.com 108.162.192.160
+[*] 	 Bind Version for 108.162.192.160 "2025.6.0"
+[*] 	 NS gwen.ns.cloudflare.com 2803:f800:50::6ca2:c0a0
+[*] 	 NS gwen.ns.cloudflare.com 2a06:98c1:50::ac40:20a0
+[*] 	 NS gwen.ns.cloudflare.com 2606:4700:50::adf5:3aa0
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 52.101.9.14
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 52.101.9.26
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 52.101.41.54
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 52.101.10.1
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 2a01:111:f403:f90d::
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 2a01:111:f403:c922::2
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 2a01:111:f403:f804::1
+[*] 	 MX hpwolf-com.mail.protection.outlook.com 2a01:111:f403:c92c::
+[*] 	 A hpwolf.com 104.18.35.85
+[*] 	 A hpwolf.com 172.64.152.171
+[*] 	 AAAA hpwolf.com 2606:4700:83b0:a21c:66a7:0:787e:118e
+[*] 	 TXT hpwolf.com MS=ms14759832
+[*] 	 TXT hpwolf.com v=spf1 include:spf.protection.outlook.com include:amazonses.com include:_spf.salesforce.com include:stspg-customer.com ~all
+[*] 	 TXT hpwolf.com status-page-domain-verification=pgk9n1g81l8n
+[*] 	 TXT hpwolf.com google-site-verification=rekysAgt45qJtIed3SvjwNd4Cu43tQm997oM4L9tILI
+[*] 	 TXT hpwolf.com google-site-verification=aHal_5EjJYCxlLVoAta6X-28xZnlwJezLDaACMrDdUo
+[*] 	 TXT _dmarc.hpwolf.com v=DMARC1;p=none;sp=none;pct=100;rua=mailto:HPSEC-Cloud-Operations@hp.com;ruf=mailto:HPSEC-Cloud-Operations@hp.com;ri=86400;aspf=r;adkim=r;fo=1;
+[*] Enumerating SRV Records
+[-] No SRV Records Found for hpwolf.com
+
+
+
+===== NMAP =====
+Error running NMAP:
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-15 12:16 UTC
+route_dst_netlink: if_indextoname(11) failed: 13 (Permission denied)
+
+
+
+===== WHATWEB =====
+[1m[34mhttp://hpwolf.com[0m [301 Moved Permanently] [1mCookies[0m[[0m[22m_cfuvid[0m], [1mCountry[0m[[0m[22mRESERVED[0m][[1m[31mZZ[0m], [1mHTTPServer[0m[[1m[36mcloudflare[0m], [1mHttpOnly[0m[[0m[22m_cfuvid[0m], [1mIP[0m[[0m[22m172.64.152.171[0m], [1mRedirectLocation[0m[[0m[22mhttps://www.hpwolf.com/[0m], [1mTitle[0m[[1m[33m301 Moved Permanently[0m], [1mUncommonHeaders[0m[[0m[22mx-content-type-options,cf-ray[0m]
+[1m[34mhttps://www.hpwolf.com/[0m [200 OK] [1mCookies[0m[[0m[22m_cfuvid[0m], [1mCountry[0m[[0m[22mUNITED STATES[0m][[1m[31mUS[0m], [1mHTML5[0m, [1mHTTPServer[0m[[1m[36mcloudflare[0m], [1mHttpOnly[0m[[0m[22m_cfuvid[0m], [1mIP[0m[[0m[22m104.18.35.85[0m], [1mScript[0m[[0m[22mapplication/json[0m], [1mStrict-Transport-Security[0m[[0m[22mmax-age=31536000; includeSubDomains[0m], [1mUncommonHeaders[0m[[0m[22mx-amz-server-side-encryption,x-amz-version-id,x-amz-cf-pop,x-amz-cf-id,cf-cache-status,x-content-type-options,ip-country,content-security-policy,cf-ray[0m], [1mVia-Proxy[0m[[0m[22m1.1 fe71c7f0a1db8317b802b84afb5339aa.cloudfront.net (CloudFront)[0m], [1mX-Frame-Options[0m[[0m[22mDENY[0m]
+
+
+
+===== WAFW00F =====
+
+                 ?              ,.   (   .      )        .      "
+         __        ??          ("     )  )'     ,'        )  . (`     '`
+    (___()'`;   ???          .; )  ' (( (" )    ;(,     ((  (  ;)  "  )")
+    /,___ /`                 _"., ,._'_.,)_(..,( . )_  _' )_') (. _..( ' )
+    \\   \\                 |____|____|____|____|____|____|____|____|____|
+
+                                ~ WAFW00F : v2.3.1 ~
+                    ~ Sniffing Web Application Firewalls since 2014 ~
+
+[*] Checking https://hpwolf.com
+[+] The site [1;94mhttps://hpwolf.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+
+
+
+===== NUCLEI =====
+
+                     __     _
+   ____  __  _______/ /__  (_)
+  / __ \/ / / / ___/ / _ \/ /
+ / / / / /_/ / /__/ /  __/ /
+/_/ /_/\__,_/\___/_/\___/_/   v3.4.4
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current nuclei version: v3.4.4 ([92mlatest[0m)
+[[34mINF[0m] Current nuclei-templates version: v10.2.2 ([92mlatest[0m)
+[[93mWRN[0m] Scan results upload to cloud is disabled.
+[[34mINF[0m] New templates added in latest release: 65
+[[34mINF[0m] Templates loaded for current scan: 7988
+[[34mINF[0m] Executing 7790 signed templates from projectdiscovery/nuclei-templates
+[[93mWRN[0m] Loading 198 unsigned templates for scan. Use with caution.
+[[34mINF[0m] Targets loaded for current scan: 1
+[[34mINF[0m] Templates clustered: 1741 (Reduced 1637 Requests)
+[[92mdns-waf-detect[0m:[1;92mcloudflare[0m] [[94mdns[0m] [[34minfo[0m] hpwolf.com
+[[34mINF[0m] Using Interactsh Server: oast.fun
+[[92mazure-domain-tenant[0m] [[94mhttp[0m] [[34minfo[0m] https://login.microsoftonline.com:443/hpwolf.com/v2.0/.well-known/openid-configuration [[96m"f17d38fc-aeb5-4615-a39f-a31c3010aac1"[0m]
+[[92mcookies-without-secure[0m] [[94mjavascript[0m] [[34minfo[0m] hpwolf.com [[96m"_cfuvid"[0m]
+[[92mmissing-sri[0m] [[94mhttp[0m] [[34minfo[0m] https://www.hpwolf.com/ [[96m"https://www.hp.com/cma/ng/lib/exceptions/privacy-banner.js"[0m]
+[[92mwaf-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] http://hpwolf.com
+[[92msecurity-txt[0m] [[94mhttp[0m] [[34minfo[0m] https://www.hpwolf.com/.well-known/security.txt [[96m"mailto:HPSEC-Security@hp.com"[0m]
+[[92mrdap-whois[0m:[1;92msecureDNS[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/hpwolf.com [[96m"false"[0m]
+[[92mrdap-whois[0m:[1;92mstatus[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/hpwolf.com [[96m"client delete prohibited"[0m,[96m"client transfer prohibited"[0m,[96m"client update prohibited"[0m]
+[[92mrdap-whois[0m:[1;92mregistrationDate[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/hpwolf.com [[96m"2020-10-03T14:59:09Z"[0m]
+[[92mrdap-whois[0m:[1;92mlastChangeDate[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/hpwolf.com [[96m"2024-09-01T11:13:35Z"[0m]
+[[92mrdap-whois[0m:[1;92mexpirationDate[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/hpwolf.com [[96m"2025-10-03T14:59:09Z"[0m]
+[[92mrdap-whois[0m:[1;92mnameServers[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/hpwolf.com [[96m"GWEN.NS.CLOUDFLARE.COM"[0m,[96m"HUGH.NS.CLOUDFLARE.COM"[0m]
+[[92mtech-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] http://hpwolf.com
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.hpwolf.com [[96m""v=DMARC1;p=none;sp=none;pct=100;rua=mailto:HPSEC-Cloud-Operations@hp.com;ruf=mailto:HPSEC-Cloud-Operations@hp.com;ri=86400;aspf=r;adkim=r;fo=1;""[0m]
+[[92mspf-record-detect[0m] [[94mdns[0m] [[34minfo[0m] hpwolf.com [[96m"v=spf1 include:spf.protection.outlook.com include:amazonses.com include:_spf.salesforce.com include:stspg-customer.com ~all""[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] hpwolf.com [[96m""MS=ms14759832""[0m,[96m""google-site-verification=aHal_5EjJYCxlLVoAta6X-28xZnlwJezLDaACMrDdUo""[0m,[96m""google-site-verification=rekysAgt45qJtIed3SvjwNd4Cu43tQm997oM4L9tILI""[0m,[96m""status-page-domain-verification=pgk9n1g81l8n""[0m,[96m""v=spf1 include:spf.protection.outlook.com include:amazonses.com include:_spf.salesforce.com include:stspg-customer.com ~all""[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] hpwolf.com [[96m"gwen.ns.cloudflare.com."[0m,[96m"hugh.ns.cloudflare.com."[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] hpwolf.com [[96m"10 hpwolf-com.mail.protection.outlook.com."[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] hpwolf.com
+[[92mcaa-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] hpwolf.com [[96m"letsencrypt.org"[0m,[96m"amazon.com; cansignhttpexchanges=yes"[0m,[96m"pki.goog; cansignhttpexchanges=yes"[0m,[96m"mailto:ca-canary@thiosulfate.co.uk"[0m]
+[[34mINF[0m] Scan completed in 2m. 20 matches found.
+
+
+
+===== SSLScan =====
+Version: [32m2.1.5[0m
+OpenSSL 3.5.0 8 Apr 2025
+[0m
+[32mConnected to 172.64.152.171[0m
+
+Testing SSL server [32mhpwolf.com[0m on port [32m443[0m using SNI name [32mhpwolf.com[0m
+
+  [1;34mSSL/TLS Protocols:[0m
+SSLv2     [32mdisabled[0m
+SSLv3     [32mdisabled[0m
+TLSv1.0   [32mdisabled[0m
+TLSv1.1   [32mdisabled[0m
+TLSv1.2   enabled
+TLSv1.3   [32menabled[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+Server [32msupports[0m TLS Fallback SCSV
+
+  [1;34mTLS renegotiation:[0m
+Session renegotiation [32mnot supported[0m
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+TLSv1.3 [32mnot vulnerable[0m to heartbleed
+TLSv1.2 [32mnot vulnerable[0m to heartbleed
+
+  [1;34mSupported Server Cipher(s):[0m
+[32mPreferred[0m [32mTLSv1.3[0m  [32m128[0m bits  [32mTLS_AES_128_GCM_SHA256       [0m
+Accepted  [32mTLSv1.3[0m  [32m256[0m bits  [32mTLS_AES_256_GCM_SHA384       [0m
+Accepted  [32mTLSv1.3[0m  [32m256[0m bits  [32mTLS_CHACHA20_POLY1305_SHA256 [0m
+[32mPreferred[0m TLSv1.2  [32m128[0m bits  [32mECDHE-ECDSA-AES128-GCM-SHA256[0m Curve [32m25519[0m DHE 253
+Accepted  TLSv1.2  [32m256[0m bits  [32mECDHE-ECDSA-CHACHA20-POLY1305[0m Curve [32m25519[0m DHE 253
+Accepted  TLSv1.2  [32m256[0m bits  [32mECDHE-ECDSA-AES256-GCM-SHA384[0m Curve [32m25519[0m DHE 253
+
+  [1;34mServer Key Exchange Group(s):[0m
+TLSv1.3  [32m128[0m bits  secp256r1 (NIST P-256)[0m
+TLSv1.3  [32m192[0m bits  secp384r1 (NIST P-384)[0m
+TLSv1.3  [32m260[0m bits  secp521r1 (NIST P-521)[0m
+TLSv1.3  [32m128[0m bits  [32mx25519[0m
+TLSv1.2  [32m128[0m bits  secp256r1 (NIST P-256)[0m
+TLSv1.2  [32m192[0m bits  secp384r1 (NIST P-384)[0m
+TLSv1.2  [32m260[0m bits  secp521r1 (NIST P-521)[0m
+TLSv1.2  [32m128[0m bits  [32mx25519[0m
+
+  [1;34mSSL Certificate:[0m
+Signature Algorithm: ecdsa-with-SHA256
+ECC Curve Name:      prime256v1
+ECC Key Strength:    128[0m
+
+Subject:  hpwolf.com
+Altnames: DNS:hpwolf.com, DNS:*.control.access.hpwolf.com, DNS:*.cdn.control.hpwolf.com, DNS:*.api.control.hpwolf.com, DNS:*.control.hpwolf.com
+Issuer:   WE1
+
+Not valid before: [32mJun 11 16:02:02 2025 GMT[0m
+Not valid after:  [32mJul 11 17:01:58 2025 GMT[0m
+

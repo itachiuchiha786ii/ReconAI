@@ -1,0 +1,361 @@
+
+
+===== WHOIS =====
+   Domain Name: TESLA.COM
+   Registry Domain ID: 187902_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-10-02T10:15:20Z
+   Creation Date: 1992-11-04T05:00:00Z
+   Registry Expiry Date: 2026-11-03T05:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: A1-12.AKAM.NET
+   Name Server: A10-67.AKAM.NET
+   Name Server: A12-64.AKAM.NET
+   Name Server: A28-65.AKAM.NET
+   Name Server: A7-66.AKAM.NET
+   Name Server: A9-67.AKAM.NET
+   Name Server: EDNS69.ULTRADNS.BIZ
+   Name Server: EDNS69.ULTRADNS.COM
+   Name Server: EDNS69.ULTRADNS.NET
+   Name Server: EDNS69.ULTRADNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-06-14T06:58:21Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: tesla.com
+Registry Domain ID: 187902_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-10-02T10:15:20+0000
+Creation Date: 1992-11-04T05:00:00+0000
+Registrar Registration Expiration Date: 2026-11-03T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: DNStination Inc.
+Registrant Street: 3450 Sacramento Street, Suite 405
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94118
+Registrant Country: US
+Registrant Phone: +1.4155319335
+Registrant Phone Ext: 
+Registrant Fax: +1.4155319336
+Registrant Fax Ext: 
+Registrant Email: admin@dnstinations.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: DNStination Inc.
+Admin Street: 3450 Sacramento Street, Suite 405
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94118
+Admin Country: US
+Admin Phone: +1.4155319335
+Admin Phone Ext: 
+Admin Fax: +1.4155319336
+Admin Fax Ext: 
+Admin Email: admin@dnstinations.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: DNStination Inc.
+Tech Street: 3450 Sacramento Street, Suite 405
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94118
+Tech Country: US
+Tech Phone: +1.4155319335
+Tech Phone Ext: 
+Tech Fax: +1.4155319336
+Tech Fax Ext: 
+Tech Email: admin@dnstinations.com
+Name Server: edns69.ultradns.net
+Name Server: a7-66.akam.net
+Name Server: edns69.ultradns.org
+Name Server: a12-64.akam.net
+Name Server: a9-67.akam.net
+Name Server: a10-67.akam.net
+Name Server: a1-12.akam.net
+Name Server: a28-65.akam.net
+Name Server: edns69.ultradns.com
+Name Server: edns69.ultradns.biz
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-06-14T06:58:38+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to whoisrequest@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+
+
+
+
+===== NSLOOKUP =====
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	tesla.com
+Address: 23.7.244.207
+Name:	tesla.com
+Address: 2.18.51.207
+Name:	tesla.com
+Address: 2.18.50.207
+Name:	tesla.com
+Address: 2.18.49.207
+Name:	tesla.com
+Address: 2.18.54.207
+Name:	tesla.com
+Address: 2.18.55.207
+Name:	tesla.com
+Address: 2.18.53.207
+Name:	tesla.com
+Address: 2.18.48.207
+Name:	tesla.com
+Address: 23.40.100.207
+Name:	tesla.com
+Address: 2.18.52.207
+
+
+
+
+===== DIG =====
+
+; <<>> DiG 9.20.9-1-Debian <<>> tesla.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53580
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;tesla.com.			IN	A
+
+;; ANSWER SECTION:
+tesla.com.		145	IN	A	2.18.50.207
+tesla.com.		145	IN	A	2.18.49.207
+tesla.com.		145	IN	A	2.18.52.207
+tesla.com.		145	IN	A	2.18.53.207
+tesla.com.		145	IN	A	23.7.244.207
+tesla.com.		145	IN	A	2.18.48.207
+tesla.com.		145	IN	A	2.18.54.207
+tesla.com.		145	IN	A	2.18.55.207
+tesla.com.		145	IN	A	2.18.51.207
+tesla.com.		145	IN	A	23.40.100.207
+
+;; Query time: 52 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sat Jun 14 06:58:39 UTC 2025
+;; MSG SIZE  rcvd: 198
+
+
+
+
+===== TRACEROUTE =====
+traceroute to tesla.com (2.18.49.207), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.71.249.107 (10.71.249.107)  54.597 ms  54.407 ms  54.270 ms
+ 3  192.168.76.75 (192.168.76.75)  53.867 ms  53.434 ms  53.333 ms
+ 4  192.168.39.28 (192.168.39.28)  52.935 ms 192.168.39.30 (192.168.39.30)  52.893 ms 192.168.39.28 (192.168.39.28)  52.412 ms
+ 5  172.26.77.212 (172.26.77.212)  51.632 ms  50.774 ms  50.225 ms
+ 6  172.26.77.195 (172.26.77.195)  49.566 ms 172.26.77.194 (172.26.77.194)  39.175 ms  38.111 ms
+ 7  192.168.65.72 (192.168.65.72)  49.874 ms  49.937 ms 192.168.65.68 (192.168.65.68)  49.596 ms
+ 8  * * *
+ 9  * * *
+10  103.198.140.174 (103.198.140.174)  59.320 ms 103.198.140.176 (103.198.140.176)  57.952 ms 103.198.140.174 (103.198.140.174)  60.146 ms
+11  103.198.140.41 (103.198.140.41)  251.062 ms 103.198.140.195 (103.198.140.195)  251.204 ms 103.198.140.197 (103.198.140.197)  257.357 ms
+12  de-cix-qts.nyc.akamai.com (206.82.104.62)  267.680 ms  249.895 ms  259.573 ms
+13  * * *
+14  * * *
+15  * * *
+16  a23-53-7-6.deploy.static.akamaitechnologies.com (23.53.7.6)  239.196 ms  252.244 ms  261.250 ms
+17  vlan100.r15.tor106.ewr03.fab.netarch.akamai.com (23.53.7.1)  244.818 ms  249.806 ms  249.164 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  103.198.140.57 (103.198.140.57)  643.940 ms 103.198.140.104 (103.198.140.104)  643.880 ms 103.198.140.57 (103.198.140.57)  444.891 ms
+23  103.198.140.194 (103.198.140.194)  449.492 ms 103.198.140.38 (103.198.140.38)  632.302 ms  630.704 ms
+24  103.198.140.26 (103.198.140.26)  526.330 ms 103.198.140.42 (103.198.140.42)  521.525 ms  634.229 ms
+25  103.198.140.212 (103.198.140.212)  633.737 ms *  632.148 ms
+26  * 49.44.220.242 (49.44.220.242)  638.784 ms *
+27  * * *
+28  49.44.217.1 (49.44.217.1)  446.458 ms * *
+29  49.44.217.1 (49.44.217.1)  455.161 ms  434.288 ms  444.898 ms
+30  a2-18-49-207.deploy.static.akamaitechnologies.com (2.18.49.207)  255.556 ms  254.903 ms  254.705 ms
+
+
+
+===== DNSRECON =====
+[*] std: Performing General Enumeration against: tesla.com...
+[-] DNSSEC is not configured for tesla.com
+[*] 	 SOA edns69.ultradns.com 204.74.66.69
+[*] 	 SOA edns69.ultradns.com 2001:502:f3ff::245
+[*] 	 NS a7-66.akam.net 23.61.199.66
+[*] 	 Bind Version for 23.61.199.66 "32886.207"
+[*] 	 NS a7-66.akam.net 2600:1406:32::42
+[*] 	 NS a28-65.akam.net 95.100.173.65
+[*] 	 Bind Version for 95.100.173.65 "46987.19"
+[*] 	 NS a28-65.akam.net 2600:1480:d800::41
+[*] 	 NS a1-12.akam.net 193.108.91.12
+[*] 	 Bind Version for 193.108.91.12 "32886.206"
+[*] 	 NS a1-12.akam.net 2600:1401:2::c
+[*] 	 NS edns69.ultradns.com 204.74.66.69
+[*] 	 Bind Version for 204.74.66.69 Nameserver"
+[*] 	 NS edns69.ultradns.com 2001:502:f3ff::245
+[*] 	 NS a9-67.akam.net 184.85.248.67
+[*] 	 Bind Version for 184.85.248.67 "43223.23"
+[*] 	 NS a9-67.akam.net 2a02:26f0:117::43
+[*] 	 NS a12-64.akam.net 184.26.160.64
+[*] 	 Bind Version for 184.26.160.64 "33182.115"
+[*] 	 NS a12-64.akam.net 2600:1480:f000::40
+[*] 	 NS a10-67.akam.net 96.7.50.67
+[*] 	 Bind Version for 96.7.50.67 "32886.208"
+[*] 	 NS a10-67.akam.net 2600:1480:d000::43
+[*] 	 MX tesla-com.mail.protection.outlook.com 52.101.11.15
+[*] 	 MX tesla-com.mail.protection.outlook.com 52.101.10.10
+[*] 	 MX tesla-com.mail.protection.outlook.com 52.101.41.183
+[*] 	 MX tesla-com.mail.protection.outlook.com 52.101.9.26
+[*] 	 A tesla.com 2.18.54.207
+[*] 	 A tesla.com 2.18.48.207
+[*] 	 A tesla.com 23.40.100.207
+[*] 	 A tesla.com 2.18.52.207
+[*] 	 A tesla.com 2.18.51.207
+[*] 	 A tesla.com 2.18.53.207
+[*] 	 A tesla.com 2.18.49.207
+[*] 	 A tesla.com 2.18.55.207
+[*] 	 A tesla.com 2.18.50.207
+[*] 	 A tesla.com 23.7.244.207
+[*] 	 TXT tesla.com domain-verification=0f075f7f33bd0e577c0a56c5bb071f9eedadba45f32da11304913c6afd4b99c7
+[*] 	 TXT tesla.com logmein-domain-confirmation=9zxwVn2buGWrLtU24J88
+[*] 	 TXT tesla.com MS=ms22358213
+[*] 	 TXT tesla.com zapier-domain-verification-challenge=64e810e8-0fe1-4de0-b104-229592811c5b
+[*] 	 TXT tesla.com google-site-verification=Y7lbse5bSatjXaqSBOWXjsit4mOp9cQzfLDpnQUSZlg
+[*] 	 TXT tesla.com _w19nckjurfa4aldim48vtbrxsq1phnv
+[*] 	 TXT tesla.com atlassian-domain-verification=U31RjXDO5NBJROoOVpVEsKJ7daGpXuXPDF8HeqlmvXUKOtTao652TOMtejHrohKB
+[*] 	 TXT tesla.com onetrust-domain-verification=480735b10e124e23916192d7e4321902
+[*] 	 TXT tesla.com teamviewer-sso-verification=2fc989f75b19494fab5eb0e2c22dd625
+[*] 	 TXT tesla.com traction-guest=b4f7ad59-bf17-4b3c-8b36-9c2d28f1de32
+[*] 	 TXT tesla.com onetrust-domain-verification=79a1328740f44bc48dd97ab52c0c3377
+[*] 	 TXT tesla.com SFMC-qkAv7SvlQaslp7NEALX8t68s_AZWOQB6ThKQS5l5
+[*] 	 TXT tesla.com ms-domain-verification=820e4be7-563e-4f52-b73a-5c9ecdd2fda4
+[*] 	 TXT tesla.com jamf-site-verification=u4x3LuqSfpoLn5nJ0zMd5g
+[*] 	 TXT tesla.com google-site-verification=Xg2DEUg2oCz1q9RMx8gh2htHK16_GG9cZXY_eyeSf6w
+[*] 	 TXT tesla.com apple-domain-verification=CHZ8RLPKu4dlRxlaNa_nR9oA2MjZ1n2fiE9s0QlbRO8
+[*] 	 TXT tesla.com cursor-domain-verification-6kgt2s=sxbxrRmk2tNjItWtmh1swmBM0
+[*] 	 TXT tesla.com adobe-sign-verification=efb2da198047b7a154bd604d2721038b
+[*] 	 TXT tesla.com bugcrowd-verification=40bd5dd89a6e4073ca9bc76feac3a47b
+[*] 	 TXT tesla.com _f32sd18rpksw3zh1hgbhaulpv016hoh
+[*] 	 TXT tesla.com v=spf1 ip4:54.240.84.225/32 ip4:54.240.84.226/31 ip4:54.240.84.228/30 ip4:54.240.84.232/29 ip4:54.240.84.240/29 ip4:54.240.84.248/30 ip4:54.240.84.252/32 ip4:44.239.249.139 ip4:52.24.70.112 ip4:34.223.204.78 ip4:213.244.145.203 ip4:213.244.145.219 ip4:213.244.145.204 ip4:213.244.145.220 ip4:8.47.24.203 ip4:8.47.24.219 ip4:8.47.24.204 ip4:8.47.24.220 ip4:8.45.124.203 ip4:8.45.124.219 ip4:8.45.124.204 ip4:8.45.124.220 ip4:8.21.14.203 ip4:8.21.14.219 ip4:8.21.14.204 ip4:8.21.14.220 ip4:8.21.14.194 ip4:8.21.14.211 ip4:212.49.145.0/24 ip4:91.103.52.0/22 ip4:168.245.123.10 ip4:216.81.144.165 ip4:149.72.247.52 ip4:149.72.134.64 ip4:149.72.152.236 ip4:149.72.163.58 ip4:149.72.172.170 ip4:167.89.90.62 ip4:158.228.129.79 ip4:216.81.144.165 ip4:117.50.14.178 ip4:117.50.35.199 ip4:54.240.42.110 ip4:54.240.42.111 ip4:199.71.239.178 ip4:67.216.183.10 ip4:8.43.178.222 ip4:199.71.239.52 include:u13494342.wl093.sendgrid.net include:spf.protection.outlook.com include:mail.zendesk.com include:_spfsn.teslamotors.com include:_spf.qualtrics.com include:_spf.ultipro.com include:_spf.psm.knowbe4.com include:spf1.sendcloud.org include:spf2.sendcloud.org -all
+[*] 	 TXT tesla.com apple-domain-verification=C9J7eOtEbm7Dqr88
+[*] 	 TXT tesla.com logmein-verification-code=JFAnsPovogeJ4IeW5MXCU3r0C
+[*] 	 TXT tesla.com T0E0S29854
+[*] 	 TXT tesla.com adobe-idp-site-verification=321c026a-3a8c-4206-a1fa-391a59585c54
+[*] 	 TXT tesla.com docker-verification=74d1ec4e-a7a6-48a7-9568-9bd0faac833f
+[*] 	 TXT tesla.com 55zNJIDU0xk94IfGJtL+Hh+wje5JzOS6GY+ntggZF908AUsx0LBKgr+Nln3CgZEUifxSuN09M05jYpdbd6+cpw==
+[*] 	 TXT tesla.com ms-domain-verification=e335cec9-0ff5-4a54-b8bc-8966a8d146db
+[*] 	 TXT _dmarc.tesla.com v=DMARC1; p=reject; pct=100; rua=mailto:n2ju30bc@ag.dmarcian.com; ruf=mailto:n2ju30bc@fr.dmarcian.com; fo=1
+[*] Enumerating SRV Records
+[+] 	 SRV _sipfederationtls._tcp.tesla.com sipfed.online.lync.com 52.123.173.7 5061
+[+] 1 Records Found
+
+
+
+===== NMAP =====
+Error running NMAP:
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-14 06:59 UTC
+route_dst_netlink: if_indextoname(11) failed: 13 (Permission denied)
+
